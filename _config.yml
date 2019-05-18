@@ -1,2 +1,14 @@
 remote_theme: nrandecker/particle
-title: Michael Condon
+
+# Site settings
+description: Powershell Enthusiast, Security Focused
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://michaelcondon.me" # the base hostname & protocol for your site
+
+# User settings
+username: Michael Condon
+user_description: Powershell Enthusiast, Security Focused
+user_title: Systems Administrato
+email: michaelcondon@outlook.com
+twitter_username: ElMilkMan
+github_username:  MichaelCondon
