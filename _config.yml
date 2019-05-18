@@ -2,25 +2,42 @@ remote_theme: bitbrain/jekyll-dash
 title: Michael Condon
 # required by disqus to display comments
 url: https://your-site-url
+title: dash
+author: Michael Condon
+email: michaelcondon@outlook.com
 
-# jekyll-paginate
+description: > # this means to ignore newlines until "show_exerpts:"
+  Michael Condon, Powershell Enthusiast, Security Focussed.
+show_excerpts: false # set to true to show excerpts on the homepage
+
 paginate: 5
 paginate_path: "/blog/page:num/"
 
-# jekyll-tagging (optional)
 tag_permalink_style: pretty
 tag_page_layout: tag_page
 tag_page_dir: tag
 
+# jekyll-dash date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 dash:
   date_format: "%b %-d, %Y"
 
   disqus:
-    shortname: <your-discuss-shortname>
+    shortname: bitbrain-github-io
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
+    - url: https://twitter.com/ElMilkMan
+      icon: twitter-square
+      color: cyan
     - url: https://github.com/MichaelCondon
       icon: github-square
       color: purple
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-paginate
+ - liquid-md5
+ - jekyll/tagging
