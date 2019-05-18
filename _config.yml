@@ -13,7 +13,7 @@ tag_page_layout: tag_page
 tag_page_dir: tag
 
 dash:
-  date_format: "%b %-d, %Y"
+  date_format: "%-d %b, %Y"
 
   disqus:
     shortname: <your-discuss-shortname>
