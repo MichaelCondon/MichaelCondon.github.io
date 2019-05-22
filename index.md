@@ -13,6 +13,13 @@ This is the repository where I host all of the PowerShell Scripts I write day to
 
 ---
 
+[CRM Link]()
+![CRM](images/dyn.png)
+
+I developed a tool using PowerShell to interface with the Dynamics 365 Discovery API to pull data and generate basic graphs using the .NET charting libraries, and save them in a compressed image format for use in email reports.
+
+---
+
 [InterACT](https://github.com/MichaelCondon/IoT-InterACT)
 ![InterACT](images/InterACT.png)
 
