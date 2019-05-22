@@ -1,4 +1,5 @@
-title: Michael Condon <span class="chevron right"></span>  # your name (or website title) here
+title: > # your name (or website title) here  
+        <span class="ps"> $ </span>Michael Condon 
 logo: "/images/me.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   PowerShell and Windows Professional, security focused with a passion for automation
