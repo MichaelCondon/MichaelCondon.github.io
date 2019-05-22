@@ -12,8 +12,8 @@
 This is the repository where I host all of the PowerShell Scripts I write day to day to automate basic Windows tasks for work and home.
 
 ---
-[InterACT]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[InterACT](https://github.com/MichaelCondon/IoT-InterACT)
+![InterACT](images/InterACT.png)
 
 A project I developed during my time at the University of Technology Sydney that utilises a Raspberry Pi, motion sensors, and a string of [Adafruit Neopixels](https://www.adafruit.com/category/168) to dynamically light indoor and outdoor areas for safety.
 
