@@ -1,9 +1,7 @@
 title: Michael Condon # your name (or website title) here
-logo: "/images/me.jpg?raw=true" # your photo (or logo) here
+logo: "/images/me.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Powershell and Windows Professional, Linux Enthusiast
-  <br><br>
-  Security Focused with a passion for automation
+  PowerShell and Windows Professional, security focused with a passion for automation
   <br><br>
   <a href="https://www.linkedin.com/in/michael-condon-179148117">View My LinkedIn Profile</a> 
   

@@ -7,7 +7,7 @@
 ### Projects 
 
 [PS-Scripts](https://github.com/MichaelCondon/PS-Scripts)
-[Scripts](images/PowerShell.png)
+![Scripts](images/PowerShell.png)
 
 This is the repository where I host all of the PowerShell Scripts I write day to day to automate basic Windows tasks for work and home.
 
