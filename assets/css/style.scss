@@ -8,3 +8,24 @@ body{
     font-family: 'Roboto', sans-serif;
 }
     
+.chevron::before {
+	border-style: solid;
+	border-width: 0.25em 0.25em 0 0;
+	content: '';
+	display: inline-block;
+	height: 0.45em;
+	left: 0.15em;
+	position: relative;
+	top: 0.15em;
+	transform: rotate(-45deg);
+	vertical-align: top;
+	width: 0.45em;
+}
+.chevron.right:before {
+	left: 0;
+	transform: rotate(45deg);
+}
+link {
+    color: #F92672;
+    display: none;
+  }

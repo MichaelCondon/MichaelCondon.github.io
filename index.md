@@ -19,7 +19,7 @@ This is the repository where I host all of the PowerShell Scripts I write day to
 A project I developed during my time at the University of Technology Sydney that utilises a Raspberry Pi, motion sensors, and a string of [Adafruit Neopixels](https://www.adafruit.com/category/168) to dynamically light indoor and outdoor areas for safety.
 
 ---
-[Systems Admin Dashboard](http://example.com/)
+<!-- [Systems Admin Dashboard](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -37,3 +37,4 @@ A project I developed during my time at the University of Technology Sydney that
 
 ---
 
+ -->
