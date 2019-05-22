@@ -1,13 +1,13 @@
 ## Portfolio
- Hey! I'm Michael. I'm 25 years old and fiercly passionate about System Administration and security. I have a wide variety of skills, with a specialisation in web technologies (C# MVC, HTML5 and CSS, a little NodeJS too!), Windows Automation using PowerShell, and information security. I'm currently exploring the world of Windows AD using Azure, and I have some minimal experience with Linux Systems as well.  
+ Hey! I'm Michael. I'm 25 years old and fiercly passionate about System Administration and security. I have a wide variety of skills, with a specialisation in web technologies (C# MVC, HTML5 and CSS, a little NodeJS too!), Windows Automation using PowerShell, and information security. I'm currently exploring the world of Windows AD using Azure, and I have some minimal experience with Linux Systems as well.    
  I have worked for Microsoft Australia for 7 years, with 5 years of retail sales and 2 years of customer-facing support (helpdesk). I'm a (very) amatuer electronics hobbyist, with some experience using Micro-Controllers for basic home automation. You can contact me [Here](mailto:michaelcondon@outlook.com)
- 
+
 ---
 
 ### Projects 
 
 [PS-Scripts](https://github.com/MichaelCondon/PS-Scripts)
-<img src="images/PowerShell.png"/>
+[Scripts](images/PowerShell.png)
 
 This is the repository where I host all of the PowerShell Scripts I write day to day to automate basic Windows tasks for work and home.
 
