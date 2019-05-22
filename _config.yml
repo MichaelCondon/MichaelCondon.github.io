@@ -1,4 +1,4 @@
-remote_theme: bitbrain/jekyll-dash
+remote_theme: evanca/quick-portfolio
 title: Michael Condon
 # required by disqus to display comments
 url: https://michaelcondon.me
