@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="/pdf/CV.pdf">View My CV</a> 
   <h3> Certifications: </h3>
-  <img src="images/Azure.png" alt="AZ-900 Certification Badge">
+  <img src="images/Azure.png" alt="AZ-900 Certification Badge" style="width:170px;height:170px;">
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
